@@ -1,0 +1,19 @@
+D:\C#\Chess Board\Chess Board\bin\Debug\Chess Board.exe.config
+D:\C#\Chess Board\Chess Board\bin\Debug\Chess Board.exe
+D:\C#\Chess Board\Chess Board\bin\Debug\Chess Board.pdb
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess Board.csprojAssemblyReference.cache
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess_Board.Form1.resources
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess_Board.Properties.Resources.resources
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess Board.csproj.GenerateResource.cache
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess Board.csproj.CoreCompileInputs.cache
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess Board.exe
+D:\C#\Chess Board\Chess Board\obj\Debug\Chess Board.pdb
+C:\Users\TT\Desktop\Chess Board\bin\Debug\Chess Board.exe.config
+C:\Users\TT\Desktop\Chess Board\obj\Debug\Chess Board.exe
+C:\Users\TT\Desktop\Chess Board\obj\Debug\Chess Board.pdb
+C:\Users\TT\Desktop\Chess Board\bin\Debug\Chess Board.exe
+C:\Users\TT\Desktop\Chess Board\bin\Debug\Chess Board.pdb
+C:\Users\TT\Desktop\Chess Board\obj\Debug\Chess Board.csprojResolveAssemblyReference.cache
+C:\Users\TT\Desktop\Chess Board\obj\Debug\Chess_Board.Form1.resources
+C:\Users\TT\Desktop\Chess Board\obj\Debug\Chess_Board.Properties.Resources.resources
+C:\Users\TT\Desktop\Chess Board\obj\Debug\Chess Board.csproj.GenerateResource.Cache
